@@ -28,4 +28,4 @@ async def kick(ctx,member: discord.Member,*, reason=None):
     await member.kick(reason=reason)
 
 
-client.run("TOKEN")
+client.run("TOCKEN")
